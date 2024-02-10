@@ -1,0 +1,19 @@
+﻿  function.c
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(25,16): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(27,22): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(77,26): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(77,26): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(91,37): warning C4028: formal parameter 2 different from declaration
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(108,37): warning C4028: formal parameter 2 different from declaration
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(123,1): warning C4029: declared formal parameter list different from definition
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(145,1): warning C4029: declared formal parameter list different from definition
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(174,42): warning C4028: formal parameter 2 different from declaration
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(189,80): warning C4028: formal parameter 5 different from declaration
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(217,17): warning C4013: 'atoi' undefined; assuming extern returning int
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(268,16): warning C4101: 'j': unreferenced local variable
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(268,19): warning C4101: 'n': unreferenced local variable
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(269,10): warning C4101: 'words': unreferenced local variable
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(144): warning C4715: 'checkid': not all control paths return a value
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(173): warning C4715: 'checkid2': not all control paths return a value
+C:\Users\Jafar Gheysari\source\repos\Project1\Project1\function.c(188): warning C4715: 'transfermoney': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Jafar Gheysari\source\repos\Project1\x64\Debug\Project1.exe
